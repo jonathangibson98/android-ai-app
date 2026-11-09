@@ -1,0 +1,6 @@
+{
+  "name": "AI Server",
+  "description": "Host a local OpenAI-compatible AI API server directly on your Android device to serve models, stream responses, inspect telemetry, and connect LAN clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
